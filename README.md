@@ -2,7 +2,7 @@
 
 ## Introduction about myself:
 
-I am a Computer Systems Engineer, developer, blogger, content creator, speaker, and passionate about technology. I like to share content about technology, open-source projects, soft skills, innovation, cloud, and web development. I live in Orlando, Florida but I was born and raised in Costa Rica. I speak Spanish, English and Portuguese (limited). I have over 14 years of experience in the technology industry focused on software development and collaboration platforms. Thank you for reading and feel free to reach out.
+I am a Computer Systems Engineer, developer, blogger, content creator, speaker, and passionate about technology. I like to share content about technology, open-source projects, soft skills, innovation, cloud, and web development. I live in Orlando, Florida but I was born and raised in Costa Rica. I speak Spanish, English and Portuguese (limited). I have over 15 years of experience in the technology industry focused on software development and collaboration platforms. Thank you for reading and feel free to reach out.
 
 ## Website
 - 🌎 [Visit my website and blog](https://dsanchezcr.com)
