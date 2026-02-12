@@ -18,11 +18,11 @@ I am a Computer Systems Engineer, developer, blogger, content creator, speaker, 
 
 ## 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of the Software Engineer in the AI and Agentic Era](https://dsanchezcr.com/blog/evolution-of-the-software-engineer)
 - [Agentic Software Engineering Needs Strong DevOps Foundations &lpar;More Than Ever&rpar;](https://dsanchezcr.com/blog/agentic-devops-foundations)
 - [Leveraging GitHub Advanced Security and Microsoft Defender for Cloud at Scale](https://dsanchezcr.com/blog/ghas-rollout)
 - [Tips and Tricks for Adopting GitHub Copilot at Scale](https://dsanchezcr.com/blog/adopting-github-copilot-at-scale)
 - [Cloud Development Environments](https://dsanchezcr.com/blog/cloud-development-environments)
-- [GitHub de Mayo - Tips about GitHub](https://dsanchezcr.com/blog/github-de-mayo)
 <!-- BLOG-POST-LIST:END -->
 
 ##
