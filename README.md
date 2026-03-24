@@ -18,11 +18,11 @@ I am a Computer Systems Engineer, developer, blogger, content creator, speaker, 
 
 ## 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Building Your AI Agent Team: Custom Agents, Spec Kit, APM, and Squad for Scalable Agentic Workflows](https://dsanchezcr.com/blog/building-your-ai-agent-team)
 - [Measuring Developer Productivity in the Age of AI](https://dsanchezcr.com/blog/measuring-developer-productivity-ai-era)
 - [From Prompts to Specifications: How Great Engineers Communicate with AI](https://dsanchezcr.com/blog/from-prompts-to-specifications)
 - [Designing Software for an Agent-First World](https://dsanchezcr.com/blog/designing-software-agent-first-world)
 - [Humans and Agents: Collaboration Patterns from IDE to Pull Request](https://dsanchezcr.com/blog/humans-and-agents-collaboration-patterns)
-- [The Evolution of the Software Engineer in the AI and Agentic Era](https://dsanchezcr.com/blog/evolution-of-the-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ##
