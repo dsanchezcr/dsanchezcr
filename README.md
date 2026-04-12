@@ -18,11 +18,11 @@ I am a Computer Systems Engineer, developer, blogger, content creator, speaker, 
 
 ## 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [The focused multitasker: how AI is rewiring the way engineers think](https://dsanchezcr.com/blog/focused-multitasker-ai-rewiring-engineers-think)
 - [Redefining DevOps: People, Process, Tools, and Agents](https://dsanchezcr.com/blog/redefining-devops-people-process-tools-agents)
 - [CI/CD Pipelines for the Agentic Era: Verification, Security, and Trust at Machine Speed](https://dsanchezcr.com/blog/cicd-pipelines-agentic-era)
 - [Building AI Applications on Azure with GitHub Models: From Playground to Production](https://dsanchezcr.com/blog/ai-apps-azure-github-models-playground-to-production)
 - [Building Your AI Agent Team: Custom Agents, Spec Kit, APM, and Squad for Scalable Agentic Workflows](https://dsanchezcr.com/blog/building-your-ai-agent-team)
-- [Measuring Developer Productivity in the Age of AI](https://dsanchezcr.com/blog/measuring-developer-productivity-ai-era)
 <!-- BLOG-POST-LIST:END -->
 
 ##
