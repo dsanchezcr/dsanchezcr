@@ -39,4 +39,3 @@ jobs:
         with:
           title: "🔗 Broken links found in profile READMEs"
           content-filepath: ./lychee/out.md
-          labels: report, automated
