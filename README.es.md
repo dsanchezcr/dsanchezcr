@@ -21,7 +21,7 @@
 </div>
 
 > [!NOTE]
-> **🤖 Este perfil está vivo.** Las secciones marcadas se actualizan automáticamente — creadas con **GitHub Actions** y **[GitHub Models](https://github.com/marketplace/models)** para *demostrar* el software agéntico del que hablo, no solo mencionarlo. Incluso puedes [**conversar con mi gemelo de IA**](#-conversa-con-mi-gemelo-de-ia) aquí mismo en GitHub.
+> **🤖 Este perfil está vivo.** Las secciones marcadas se actualizan automáticamente — creadas con **GitHub Actions** y **[GitHub Models](https://github.com/marketplace/models)** para *demostrar* el software agéntico del que hablo, no solo mencionarlo. Incluso puedes [**conversar con mi gemelo de IA**](#conversa-con-mi-gemelo-de-ia) aquí mismo en GitHub.
 
 ---
 
