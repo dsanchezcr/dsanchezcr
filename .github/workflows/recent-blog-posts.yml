@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # v1
         with:
           feed_list: "https://dsanchezcr.com/blog/atom.xml"
           readme_path: "./README.md,./README.es.md,./README.pt.md"
