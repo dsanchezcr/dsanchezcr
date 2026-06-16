@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   update-readme-with-youtube:
-    name: Update READMEs with latest YouTube videos
+    name: Update README with latest YouTube videos
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
