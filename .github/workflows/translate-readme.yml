@@ -1,0 +1,44 @@
+name: Localize AI sections
+
+# Keeps the Spanish and Portuguese READMEs in sync with the AI-generated
+# sections of the English README, using GitHub Models for translation.
+on:
+  workflow_run:
+    workflows: ["AI activity digest", "AI tip of the day"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: readme-translate
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    name: Translate AI sections to ES/PT
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_branch || github.ref_name }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Localize AI sections
+        run: node .github/scripts/translate-readme.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5
+        with:
+          commit_message: "chore: localize AI sections (ES/PT)"
+          file_pattern: "README.es.md README.pt.md"

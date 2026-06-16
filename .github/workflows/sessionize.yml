@@ -1,0 +1,40 @@
+name: Update speaking sessions
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-sessionize
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Refresh Sessionize talks
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Set a repository variable named SESSIONIZE_API_ID to your Sessionize
+      # API endpoint id (Sessionize → your profile → API/Embed). Without it the
+      # script skips gracefully and the default content is kept.
+      - name: Update README
+        run: node .github/scripts/update-sessionize.mjs
+        env:
+          SESSIONIZE_API_ID: ${{ vars.SESSIONIZE_API_ID }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5
+        with:
+          commit_message: "chore: update speaking sessions"
+          file_pattern: "README.md"

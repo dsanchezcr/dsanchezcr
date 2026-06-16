@@ -1,0 +1,38 @@
+name: GitHub metrics
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    name: Generate detailed metrics SVG
+    runs-on: ubuntu-latest
+    steps:
+      # Generates assets/github-metrics.svg and commits it to the default branch.
+      # Works with the built-in token; for richer data (full-year calendar, private
+      # contributions) add a classic PAT with `repo` + `read:user` scopes as METRICS_TOKEN.
+      - name: Build metrics
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: dsanchezcr
+          filename: assets/github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes

@@ -1,0 +1,39 @@
+name: "🤖 Ask David's AI twin"
+description: "Ask a question about David's work, talks, projects, or experience. An AI agent (GitHub Models) will answer as David."
+title: "[AI Twin] "
+labels: ["ai-twin"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 👋 Welcome!
+        This opens a question for **David's AI twin** — an agent powered by [GitHub Models](https://github.com/marketplace/models).
+        It answers as David, grounded in his public bio, blog, projects, and talks.
+
+        > ⚠️ Answers are AI-generated and may be imperfect. For anything important, reach out directly via [dsanchezcr.com](https://dsanchezcr.com).
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What would you like to ask?
+      placeholder: "e.g. What is David's experience with agentic DevOps and GitHub Copilot?"
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Preferred answer language
+      options:
+        - English
+        - Español
+        - Português
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I understand this answer is AI-generated and not a personal/official statement from David.
+          required: true

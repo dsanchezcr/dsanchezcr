@@ -1,0 +1,54 @@
+name: AI activity digest
+
+on:
+  schedule:
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: readme-ai-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    name: Summarize recent activity with GitHub Models
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Collect recent activity
+        run: node .github/scripts/collect-activity.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Generate digest
+        id: digest
+        uses: actions/ai-inference@v2
+        with:
+          model: openai/gpt-4o
+          max-completion-tokens: 320
+          system-prompt: >-
+            You write David Sanchez's first-person "what I've been building lately"
+            update for his GitHub profile. Voice: warm, professional, concise. Output
+            only the Markdown bullet points requested by the user — no preamble, no
+            heading, no closing remarks, and no signature.
+          prompt-file: .github/tmp/digest-prompt.txt
+
+      - name: Update README
+        run: node .github/scripts/update-marker.mjs AI-DIGEST "${{ steps.digest.outputs.response-file }}" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5
+        with:
+          commit_message: "chore: update AI activity digest"
+          file_pattern: "README.md"
