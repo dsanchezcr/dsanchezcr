@@ -37,9 +37,9 @@ jobs:
             echo "A visitor asked the following on my GitHub profile. Answer as my AI twin, following all your rules. If they indicated a preferred language, answer in that language; otherwise answer in English."
             echo
             echo "=== Question ==="
-            echo "Title: ${ISSUE_TITLE}"
+            printf '%s\n' "Title: ${ISSUE_TITLE}"
             echo
-            echo "${ISSUE_BODY}"
+            printf '%s\n' "${ISSUE_BODY}"
             echo "=== End of question ==="
           } > .github/tmp/question.txt
 
