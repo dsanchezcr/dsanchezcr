@@ -23,6 +23,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dsanchezcr.com/blog/atom.xml"
-          readme_path: "./README.md, ./README.es.md, ./README.pt.md"
+          readme_path: "./README.md,./README.es.md,./README.pt.md"
           max_post_count: 5
           commit_message: "chore: update latest blog posts"

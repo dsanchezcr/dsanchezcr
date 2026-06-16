@@ -37,7 +37,11 @@ jobs:
         with:
           model: openai/gpt-4o
           max-completion-tokens: 320
-          system-prompt-file: .github/ai/persona.md
+          system-prompt: >-
+            You write David Sanchez's first-person "what I've been building lately"
+            update for his GitHub profile. Voice: warm, professional, concise. Output
+            only the Markdown bullet points requested by the user — no preamble, no
+            heading, no closing remarks, and no signature.
           prompt-file: .github/tmp/digest-prompt.txt
 
       - name: Update README

@@ -17,8 +17,18 @@ function flattenSessions(data) {
   return data.filter((s) => s && (s.title || s.name));
 }
 
+function startRaw(s) {
+  return s.startsAt || s.startAt || s.date || null;
+}
+
+function startTime(s) {
+  const raw = startRaw(s);
+  const t = raw ? new Date(raw).getTime() : NaN;
+  return Number.isNaN(t) ? 0 : t;
+}
+
 function whenLabel(s) {
-  const raw = s.startsAt || s.startAt || s.date;
+  const raw = startRaw(s);
   if (!raw) return s.eventName || s.event || '';
   const d = new Date(raw);
   if (Number.isNaN(d.getTime())) return s.eventName || '';
@@ -49,7 +59,7 @@ async function main() {
   }
 
   // Sort by date descending when available, then take the most recent few.
-  sessions.sort((a, b) => new Date(b.startsAt || 0) - new Date(a.startsAt || 0));
+  sessions.sort((a, b) => startTime(b) - startTime(a));
 
   const items = sessions.slice(0, MAX).map((s) => {
     const title = (s.title || s.name || 'Untitled talk').trim();
