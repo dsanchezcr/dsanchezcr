@@ -24,7 +24,12 @@ jobs:
         id: yt
         run: |
           set -euo pipefail
-          html="$(curl -fsSL --retry 3 'https://www.youtube.com/@dsanchezcr')"
+          html="$(curl -fsSL --retry 3 'https://www.youtube.com/@dsanchezcr' || true)"
+          if [ -z "${html:-}" ]; then
+            echo "Could not fetch YouTube channel page; skipping." >&2
+            echo "feed=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           cid="$(printf '%s' "$html" | grep -oP '"channelId":"\K[^"]+' | head -n1 || true)"
           if [ -z "${cid:-}" ]; then
             cid="$(printf '%s' "$html" | grep -oP 'channel/\K[A-Za-z0-9_-]{20,}' | head -n1 || true)"
