@@ -1,0 +1,46 @@
+name: AI tip of the day
+
+on:
+  schedule:
+    - cron: '15 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: readme-ai-tip
+  cancel-in-progress: false
+
+jobs:
+  tip:
+    name: Generate an agentic tip with GitHub Models
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate tip
+        id: tip
+        uses: actions/ai-inference@v2
+        with:
+          model: openai/gpt-4o-mini
+          max-completion-tokens: 160
+          system-prompt: >-
+            You write a single, punchy daily tip for developers about Azure,
+            GitHub, GitHub Copilot, or agentic DevOps, in a warm and professional
+            voice. Be specific and practical.
+          prompt: >-
+            Output exactly one Markdown blockquote line that starts with
+            "> 💡 **Tip:** " and contains one practical, specific tip of at most
+            240 characters. No preamble and no extra lines.
+
+      - name: Update README
+        run: node .github/scripts/update-marker.mjs AI-TIP "${{ steps.tip.outputs.response-file }}" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update AI tip of the day"
+          file_pattern: "README.md"

@@ -1,0 +1,38 @@
+name: Update Costa Rica exchange rate
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-colones
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Refresh exchange-rate easter egg
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install my exchange-rate package
+        run: npm install --no-save @dsanchezcr/colonesexchangerate
+
+      - name: Update READMEs
+        run: node .github/scripts/update-colones-rate.mjs
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update Costa Rica exchange rate"
+          file_pattern: "README.md README.es.md README.pt.md"

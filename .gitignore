@@ -1,0 +1,4 @@
+# Runtime artifacts produced by the profile automation workflows
+.github/tmp/
+node_modules/
+package-lock.json

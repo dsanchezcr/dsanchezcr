@@ -1,0 +1,68 @@
+name: AI twin responder
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: read
+  issues: write
+  models: read
+
+concurrency:
+  group: ai-twin-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  answer:
+    name: Answer as David's AI twin
+    # Only run for issues explicitly tagged for the AI twin, and never answer twice.
+    if: >-
+      github.event.issue.state == 'open' &&
+      contains(github.event.issue.labels.*.name, 'ai-twin') &&
+      !contains(github.event.issue.labels.*.name, 'answered')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare question
+        # Pass untrusted issue content via env vars (never inline) to avoid script injection.
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          mkdir -p .github/tmp
+          {
+            echo "A visitor asked the following on my GitHub profile. Answer as my AI twin, following all your rules. If they indicated a preferred language, answer in that language; otherwise answer in English."
+            echo
+            echo "=== Question ==="
+            echo "Title: ${ISSUE_TITLE}"
+            echo
+            echo "${ISSUE_BODY}"
+            echo "=== End of question ==="
+          } > .github/tmp/question.txt
+
+      - name: Generate answer
+        id: twin
+        uses: actions/ai-inference@v2
+        with:
+          model: openai/gpt-4o
+          max-completion-tokens: 600
+          system-prompt-file: .github/ai/persona.md
+          prompt-file: .github/tmp/question.txt
+
+      - name: Post answer and close
+        uses: actions/github-script@v7
+        env:
+          RESPONSE_FILE: ${{ steps.twin.outputs.response-file }}
+        with:
+          script: |
+            const fs = require('fs');
+            const answer = fs.readFileSync(process.env.RESPONSE_FILE, 'utf8').trim()
+              || "I couldn't generate an answer this time. Please reach out at https://dsanchezcr.com/contact 🙏";
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+            await github.rest.issues.createComment({ owner, repo, issue_number, body: answer });
+            await github.rest.issues.addLabels({ owner, repo, issue_number, labels: ['answered'] });
+            await github.rest.issues.update({ owner, repo, issue_number, state: 'closed', state_reason: 'completed' });

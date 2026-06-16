@@ -1,13 +1,20 @@
-name: Latest blog post workflow
+name: Latest blog posts
+
 on:
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
+concurrency:
+  group: readme-blog
+  cancel-in-progress: false
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update READMEs with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -16,3 +23,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dsanchezcr.com/blog/atom.xml"
+          readme_path: "./README.md, ./README.es.md, ./README.pt.md"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
