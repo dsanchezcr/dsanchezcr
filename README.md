@@ -21,7 +21,7 @@
 </div>
 
 > [!NOTE]
-> **🤖 This profile is alive.** Sections marked below update automatically — built with **GitHub Actions** and **[GitHub Models](https://github.com/marketplace/models)** to *demonstrate* the agentic software I advocate for, not just talk about it. You can even [**chat with my AI twin**](#-chat-with-my-ai-twin) right here on GitHub.
+> **🤖 This profile is alive.** Sections marked below update automatically — built with **GitHub Actions** and **[GitHub Models](https://github.com/marketplace/models)** to *demonstrate* the agentic software I advocate for, not just talk about it. You can even [**chat with my AI twin**](#chat-with-my-ai-twin) right here on GitHub.
 
 ---
 
