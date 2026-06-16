@@ -21,7 +21,7 @@ jobs:
       # Works with the built-in token; for richer data (full-year calendar, private
       # contributions) add a classic PAT with `repo` + `read:user` scopes as METRICS_TOKEN.
       - name: Build metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: dsanchezcr

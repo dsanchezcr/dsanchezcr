@@ -20,8 +20,13 @@ export async function replaceBetweenMarkers(filePath, tag, content) {
   }
 
   const startIdx = text.indexOf(start);
-  const endIdx = text.indexOf(end);
-  if (startIdx === -1 || endIdx === -1 || endIdx < startIdx) {
+  if (startIdx === -1) {
+    return false;
+  }
+  // Search for the end marker only after the start marker so a repeated tag
+  // (or a stray END earlier in the file) can't select the wrong block.
+  const endIdx = text.indexOf(end, startIdx + start.length);
+  if (endIdx === -1) {
     return false;
   }
 
@@ -56,8 +61,13 @@ export async function extractBetweenMarkers(filePath, tag) {
   }
 
   const startIdx = text.indexOf(start);
-  const endIdx = text.indexOf(end);
-  if (startIdx === -1 || endIdx === -1 || endIdx < startIdx) {
+  if (startIdx === -1) {
+    return null;
+  }
+  // Search for the end marker only after the start marker so a repeated tag
+  // (or a stray END earlier in the file) can't select the wrong block.
+  const endIdx = text.indexOf(end, startIdx + start.length);
+  if (endIdx === -1) {
     return null;
   }
 

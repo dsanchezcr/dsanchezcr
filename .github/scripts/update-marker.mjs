@@ -13,12 +13,18 @@ if (!tag || !contentFile) {
 
 const targets = files.length ? files : ['README.md'];
 
-const raw = await readFile(contentFile, 'utf8').catch(() => '');
-const content = raw.trim();
+let raw;
+try {
+  raw = await readFile(contentFile, 'utf8');
+} catch (err) {
+  console.error(`Failed to read content file "${contentFile}": ${err.message}`);
+  process.exit(1);
+}
 
+const content = raw.trim();
 if (!content) {
-  console.log('Empty content; leaving files unchanged.');
-  process.exit(0);
+  console.error(`Content file "${contentFile}" is empty; aborting so the failure is visible.`);
+  process.exit(1);
 }
 
 let changed = false;
