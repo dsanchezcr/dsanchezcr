@@ -193,7 +193,12 @@ Have a question about my work, talks, projects, or experience? **Ask my AI twin*
 
 A little easter egg powered by my own open-source package [`@dsanchezcr/colonesexchangerate`](https://github.com/dsanchezcr/ColonesExchangeRate) 🇨🇷
 <!-- COLONES-RATE:START -->
-- 💵 _Today's Costa Rican Colón (₡) exchange rate will appear here daily._
+> **🇨🇷 Costa Rica exchange rate** — updated `2026-06-17`
+>
+> - 💵 **1 USD** = ₡455.90 _(sale)_ · ₡450.02 _(purchase)_
+> - 💶 **1 EUR** = ₡528.66
+>
+> <sub>Powered by my own package [`@dsanchezcr/colonesexchangerate`](https://github.com/dsanchezcr/ColonesExchangeRate)</sub>
 <!-- COLONES-RATE:END -->
 
 ---
