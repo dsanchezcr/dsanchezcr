@@ -162,11 +162,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ## 🎥 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS:START -->
-- 📺 [Passionate tech enthusiasts](https://www.youtube.com/watch?v=ibhnUmXmm4I)
-- 📺 [Where Work Meets Passion: Join Our Extraordinary Journey](https://www.youtube.com/watch?v=prlEJChAqzY)
-- 📺 [Embed Security Checks Natively in Your Azure DevOps Pipelines](https://www.youtube.com/watch?v=C6KPVvmwXeE)
-- 📺 [Unlock DevSecOps: The Power of GitHub&#39;s Advanced Security Suite](https://www.youtube.com/watch?v=Q89yIPrhQA4)
-- 📺 [Embed security checks natively in your Azure DevOps Pipelines](https://www.youtube.com/watch?v=Ju7b-oCn7dU)<!-- YOUTUBE-VIDEOS:END -->
+- 📺 [DevOps Foundations for the AI Agentic Era](https://www.youtube.com/watch?v=rgO_-cZdVIY)<!-- YOUTUBE-VIDEOS:END -->
 
 ## 🎤 Where to find me speaking
 <!-- SESSIONIZE:START -->
