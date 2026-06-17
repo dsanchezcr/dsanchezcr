@@ -98,7 +98,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> _An AI-generated tip on Azure, GitHub Copilot, and agentic DevOps will appear here daily._
+> 💡 **Tip:** Use Azure DevOps Boards to track your project’s progress. Break tasks into manageable chunks, set due dates, and assign team members to keep everyone aligned and accountable throughout your development cycle.
 <!-- AI-TIP:END -->
 
 ---
