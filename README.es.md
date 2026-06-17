@@ -77,12 +77,12 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
-🛠️ _Mi resumen semanal de actividad generado con IA aparecerá aquí pronto — con tecnología de [GitHub Models](https://github.com/marketplace/models) y GitHub Actions._
+🛠️ _Mi resumen de actividades generado por IA semanal aparecerá aquí pronto — impulsado por [GitHub Models](https://github.com/marketplace/models) y GitHub Actions._
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> _Aquí aparecerá a diario un tip generado con IA sobre Azure, GitHub Copilot y DevOps agéntico._
+> 💡 **Consejo:** Usa Azure DevOps Boards para rastrear el progreso de tu proyecto. Divide las tareas en partes manejables, establece fechas de entrega y asigna miembros del equipo para mantener a todos alineados y responsables durante todo tu ciclo de desarrollo.
 <!-- AI-TIP:END -->
 
 ---
