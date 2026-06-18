@@ -82,7 +82,7 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use o Azure DevOps Boards para acompanhar o progresso do seu projeto. Divida as tarefas em partes gerenciáveis, defina prazos e atribua membros da equipe para manter todos alinhados e responsáveis ao longo do seu ciclo de desenvolvimento.
+> 💡 **Dica:** Use o Azure DevOps Boards para gerenciar suas histórias de usuário e tarefas de forma eficaz. Configure sprints, atribua tarefas e acompanhe o progresso visualmente para melhorar a colaboração da equipe e garantir alinhamento nos objetivos do projeto.
 <!-- AI-TIP:END -->
 
 ---
