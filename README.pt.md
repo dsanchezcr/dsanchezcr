@@ -77,12 +77,12 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ## 🤖 No que tenho trabalhado
 <!-- AI-DIGEST:START -->
-🛠️ _Meu resumo semanal de atividades geradas por IA aparecerá aqui em breve — alimentado por [GitHub Models](https://github.com/marketplace/models) e GitHub Actions._
+🛠️ _Meu resumo semanal de atividades geradas por IA aparecerá aqui em breve — alimentado por [Modelos do GitHub](https://github.com/marketplace/models) e Ações do GitHub._
 <!-- AI-DIGEST:END -->
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use o Azure DevOps Boards para gerenciar suas histórias de usuário e tarefas de forma eficaz. Configure sprints, atribua tarefas e acompanhe o progresso visualmente para melhorar a colaboração da equipe e garantir alinhamento nos objetivos do projeto.
+> 💡 **Dica:** Aproveite o GitHub Actions para automatizar seu pipeline de CI/CD. Comece com um arquivo YAML simples no seu diretório `.github/workflows/`; defina jobs, especifique gatilhos e veja seu processo de construção e implantação se tornar fluido!
 <!-- AI-TIP:END -->
 
 ---

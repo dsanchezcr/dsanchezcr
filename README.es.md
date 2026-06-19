@@ -82,7 +82,7 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza Azure DevOps Boards para gestionar tus historias de usuario y tareas de manera efectiva. Configura sprints, asigna tareas y sigue el progreso visualmente para mejorar la colaboración del equipo y asegurar la alineación en los objetivos del proyecto.
+> 💡 **Consejo:** Aprovecha GitHub Actions para automatizar tu pipeline de CI/CD. Comienza con un archivo YAML simple en tu directorio `.github/workflows/`; define trabajos, especifica desencadenadores y observa cómo tu proceso de construcción y despliegue se vuelve fluido.
 <!-- AI-TIP:END -->
 
 ---
