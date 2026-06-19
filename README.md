@@ -98,7 +98,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure DevOps Boards to manage your user stories and tasks effectively. Set up sprints, assign tasks, and track progress visually to enhance team collaboration and ensure alignment on project goals.
+> 💡 **Tip:** Leverage GitHub Actions to automate your CI/CD pipeline. Start with a simple YAML file in your `.github/workflows/` directory; define jobs, specify triggers, and watch your build and deployment process become seamless!
 <!-- AI-TIP:END -->
 
 ---
