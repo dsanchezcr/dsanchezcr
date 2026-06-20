@@ -77,12 +77,12 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
-🛠️ _Mi resumen de actividades generado por IA semanal aparecerá aquí pronto — impulsado por [GitHub Models](https://github.com/marketplace/models) y GitHub Actions._
+🛠️ _Mi resumen de actividades generado por IA de la semana aparecerá aquí pronto — impulsado por [GitHub Models](https://github.com/marketplace/models) y GitHub Actions._
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Aprovecha GitHub Actions para automatizar tu pipeline de CI/CD. Comienza con un archivo YAML simple en tu directorio `.github/workflows/`; define trabajos, especifica desencadenadores y observa cómo tu proceso de construcción y despliegue se vuelve fluido.
+> 💡 **Consejo:** Usa GitHub Actions para automatizar tu pipeline de CI/CD; aprovecha las compilaciones en matriz para probar múltiples combinaciones de entornos y configuraciones simultáneamente, ahorrando tiempo y asegurando robustez en tus implementaciones.
 <!-- AI-TIP:END -->
 
 ---
