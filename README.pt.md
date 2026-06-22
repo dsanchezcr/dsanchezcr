@@ -77,12 +77,14 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ## 🤖 No que tenho trabalhado
 <!-- AI-DIGEST:START -->
-🛠️ _Meu resumo semanal de atividades geradas por IA aparecerá aqui em breve — alimentado por [GitHub Models](https://github.com/marketplace/models) e GitHub Actions._
+- Focado em aprimorar meu site pessoal com novos recursos e otimizações no repositório `dsanchezcr/website`.  
+- Contribuí com um PR para o projeto `Azure-Samples/DevOpsEngineerPersona` para melhorar exemplos de fluxos de trabalho focados em nuvem.  
+- Mantendo-me inspirado pelo Azure, GitHub e IA enquanto refino o código e apoio projetos que geram impacto.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use o GitHub Actions para automatizar seu pipeline de CI/CD. Configure um fluxo de trabalho que execute testes e implante seu aplicativo ao fazer push para a branch principal, garantindo qualidade consistente e iterações mais rápidas.
+> 💡 **Dica:** Use o GitHub Actions para automatizar seu pipeline de CI/CD. Configure um fluxo de trabalho que execute testes e implante seu aplicativo ao fazer push para o branch principal, garantindo qualidade consistente e iterações mais rápidas.
 <!-- AI-TIP:END -->
 
 ---
