@@ -77,12 +77,12 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
-🛠️ _Mi resumen de actividades generado por IA semanal aparecerá aquí pronto — impulsado por [GitHub Models](https://github.com/marketplace/models) y GitHub Actions._
+🛠️ _Mi resumen de actividades generado por IA de la semana aparecerá aquí pronto — impulsado por [GitHub Models](https://github.com/marketplace/models) y GitHub Actions._
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Usa GitHub Actions para automatizar tus flujos de trabajo de CI/CD. Configura un archivo `.yaml` simple en tu directorio `.github/workflows` para desplegar tu aplicación en Azure en cada push a la rama principal, asegurando lanzamientos más rápidos y confiables.
+> 💡 **Consejo:** Usa GitHub Actions para automatizar tu pipeline de CI/CD. Configura un flujo de trabajo que ejecute pruebas y despliegue tu aplicación al hacer push a la rama principal, asegurando calidad consistente y iteraciones más rápidas.
 <!-- AI-TIP:END -->
 
 ---
