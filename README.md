@@ -98,7 +98,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use GitHub Actions to automate your CI/CD workflows. Set up a simple `.yaml` file in your `.github/workflows` directory to deploy your app to Azure on every push to the main branch, ensuring faster and more reliable releases.
+> 💡 **Tip:** Use GitHub Actions to automate your CI/CD pipeline. Set up a workflow that runs tests and deploys your app on push to the main branch, ensuring consistent quality and quicker iterations.
 <!-- AI-TIP:END -->
 
 ---
