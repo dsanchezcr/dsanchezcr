@@ -93,7 +93,9 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 ## 🤖 What I've been building lately
 <!-- An AI summary of my recent GitHub activity, generated weekly with GitHub Models. -->
 <!-- AI-DIGEST:START -->
-🛠️ _My weekly AI-generated activity digest will appear here soon — powered by [GitHub Models](https://github.com/marketplace/models) and GitHub Actions._
+- Focused on enhancing my personal website with new features and optimizations in the `dsanchezcr/website` repo.  
+- Contributed a PR to the `Azure-Samples/DevOpsEngineerPersona` project to improve examples for cloud-focused workflows.  
+- Staying inspired by Azure, GitHub, and AI as I refine code and support projects that create impact.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Agentic tip of the day
