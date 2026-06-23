@@ -20,27 +20,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Resolve YouTube channel feed
+      - name: Build YouTube feed list
         id: yt
         run: |
           set -euo pipefail
-          html="$(curl -fsSL --retry 3 'https://www.youtube.com/@dsanchezcr' || true)"
-          if [ -z "${html:-}" ]; then
-            echo "Could not fetch YouTube channel page; skipping." >&2
-            echo "feed=" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          cid="$(printf '%s' "$html" | grep -oP '"channelId":"\K[^"]+' | head -n1 || true)"
-          if [ -z "${cid:-}" ]; then
-            cid="$(printf '%s' "$html" | grep -oP 'channel/\K[A-Za-z0-9_-]{20,}' | head -n1 || true)"
-          fi
-          if [ -z "${cid:-}" ]; then
-            echo "Could not resolve channel id; skipping." >&2
-            echo "feed=" >> "$GITHUB_OUTPUT"
-          else
-            echo "Resolved channel id: $cid"
-            echo "feed=https://www.youtube.com/feeds/videos.xml?channel_id=$cid" >> "$GITHUB_OUTPUT"
-          fi
+          # David's own channel: https://www.youtube.com/@dsanchezcr
+          # Channel IDs are permanent, so we pin it instead of scraping the
+          # channel page. Scraping previously matched a *featured* channel
+          # ("Xebia Microsoft Services") and surfaced other people's videos.
+          CHANNEL_ID="UCgiAAC6cortZavkdNE5Y4aA"
+          # Curated playlists whose videos are mine but were published by other
+          # channels (e.g. webinars hosted by Microsoft Reactor / Azure Friday).
+          # Add more space-separated playlist IDs here to include them.
+          PLAYLIST_IDS="PLAT5O4feenw3Z_tQ9rz0i5mGGQ3Qya9lP" # Webinars
+          feed="https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}"
+          for pl in ${PLAYLIST_IDS}; do
+            feed="${feed},https://www.youtube.com/feeds/videos.xml?playlist_id=${pl}"
+          done
+          echo "Using feeds: ${feed}"
+          echo "feed=${feed}" >> "$GITHUB_OUTPUT"
 
       - name: Pull latest videos
         if: steps.yt.outputs.feed != ''

@@ -122,7 +122,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dsanchezcr&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+<img src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-achievements.svg" alt="GitHub achievements" />
 
 </div>
 
@@ -164,11 +164,11 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ## 🎥 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS:START -->
-- 📺 [Passionate tech enthusiasts](https://www.youtube.com/watch?v=ibhnUmXmm4I)
-- 📺 [Where Work Meets Passion: Join Our Extraordinary Journey](https://www.youtube.com/watch?v=prlEJChAqzY)
-- 📺 [Embed Security Checks Natively in Your Azure DevOps Pipelines](https://www.youtube.com/watch?v=C6KPVvmwXeE)
+- 📺 [DevOps Foundations for the AI Agentic Era](https://www.youtube.com/watch?v=rgO_-cZdVIY)
 - 📺 [Unlock DevSecOps: The Power of GitHub&#39;s Advanced Security Suite](https://www.youtube.com/watch?v=Q89yIPrhQA4)
-- 📺 [Embed security checks natively in your Azure DevOps Pipelines](https://www.youtube.com/watch?v=Ju7b-oCn7dU)<!-- YOUTUBE-VIDEOS:END -->
+- 📺 [DevOps practices for Azure Cosmos DB](https://www.youtube.com/watch?v=kfkCCJ7jLyU)
+- 📺 [From code to Cloud in a secure way with GitHub Advanced Security](https://www.youtube.com/watch?v=16bYXX5xu6U)
+- 📺 [Create a Simple Website with Azure Static Web Apps and VS Code](https://www.youtube.com/watch?v=-61Ox6QpTd8)<!-- YOUTUBE-VIDEOS:END -->
 
 ## 🎤 Where to find me speaking
 <!-- SESSIONIZE:START -->
