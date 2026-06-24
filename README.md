@@ -100,7 +100,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure Functions to create serverless APIs that automatically scale with demand. Start by deploying a simple HTTP-triggered function and test it with Azure’s built-in tools to ensure performance meets your requirements!
+> 💡 **Tip:** Use GitHub Actions to automate your CI/CD pipelines. Create a `.github/workflows/ci.yml` file and define jobs to build, test, and deploy your app, ensuring consistent quality and faster delivery with every commit.
 <!-- AI-TIP:END -->
 
 ---
