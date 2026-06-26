@@ -102,11 +102,11 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ## ✍️ Últimas do meu blog
 <!-- BLOG-POST-LIST:START -->
+- [Reviewer Fatigue: When Agents Write More Code Than Humans Can Read](https://dsanchezcr.com/blog/reviewer-fatigue-human-in-the-loop-bottleneck)
 - [Mastering Generative AI: The Architecture of a System of Intelligence](https://dsanchezcr.com/blog/mastering-generative-ai-systems-of-intelligence)
 - [DevOps Foundations for the AI Agentic Era &lpar;Microsoft Reactor Webinar&rpar;](https://dsanchezcr.com/blog/devops-foundations-ai-agentic-era-webinar)
 - [Building mobile and device apps in the agentic era: a practical guide to native, MAUI, React Native, and more](https://dsanchezcr.com/blog/building-mobile-apps-agentic-era)
 - [Do full IDEs still deserve a seat at the table in the AI era?](https://dsanchezcr.com/blog/full-ides-ai-era)
-- [Security and compliance in agentic workflows: the governance layer teams are missing](https://dsanchezcr.com/blog/security-compliance-agentic-workflows)
 <!-- BLOG-POST-LIST:END -->
 
 📬 [**Assine minha newsletter**](https://dsanchezcr.com/newsletter) para receber minhas publicações.
