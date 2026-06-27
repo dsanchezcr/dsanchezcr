@@ -84,7 +84,7 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza las tuberías de Azure DevOps para automatizar las pruebas y el despliegue de código. Integra con GitHub para optimizar tu proceso de CI/CD, asegurando que cada commit desencadene una compilación, dándote retroalimentación instantánea sobre la calidad del código.
+> 💡 **Consejo:** Para mejorar la colaboración, utiliza las plantillas de Pull Request de GitHub para estandarizar la retroalimentación. Esto fomenta revisiones exhaustivas y asegura consistencia en tu proceso de desarrollo, facilitando que los miembros del equipo contribuyan de manera efectiva.
 <!-- AI-TIP:END -->
 
 ---
