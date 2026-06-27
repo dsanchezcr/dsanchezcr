@@ -100,7 +100,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure DevOps pipelines to automate code testing and deployment. Integrate with GitHub to streamline your CI/CD process, ensuring that every commit triggers a build, giving you instant feedback on code quality.
+> 💡 **Tip:** To boost collaboration, utilize GitHub's Pull Request templates to standardize feedback. This encourages thorough reviews and ensures consistency in your development process, making it easier for team members to contribute effectively.
 <!-- AI-TIP:END -->
 
 ---
