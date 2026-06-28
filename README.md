@@ -100,7 +100,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** To boost collaboration, utilize GitHub's Pull Request templates to standardize feedback. This encourages thorough reviews and ensures consistency in your development process, making it easier for team members to contribute effectively.
+> 💡 **Tip:** Use Azure DevOps Pipeline expressions to manage complex deployments more efficiently. For example, use `if` conditions to control steps based on branch, allowing for smoother merges and environment-specific actions.
 <!-- AI-TIP:END -->
 
 ---
