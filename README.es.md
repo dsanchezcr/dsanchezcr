@@ -77,9 +77,8 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
-- Enfocado en mejorar mi sitio web personal con nuevas características y optimizaciones en el repositorio `dsanchezcr/website`.  
-- Contribuí con un PR al proyecto `Azure-Samples/DevOpsEngineerPersona` para mejorar ejemplos de flujos de trabajo enfocados en la nube.  
-- Manteniéndome inspirado por Azure, GitHub y la IA mientras refino código y apoyo proyectos que generan impacto.
+- Enfocado en mejorar mi sitio web personal (`dsanchezcr/website`) con cinco nuevas solicitudes de extracción para refinar sus características y capacidad de respuesta.  
+- Realicé actualizaciones en mi repositorio de perfil de GitHub (`dsanchezcr/dsanchezcr`) para reflejar mejor mi enfoque actual en Azure, flujos de trabajo de GitHub y soluciones impulsadas por IA.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
