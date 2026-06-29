@@ -78,13 +78,13 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
 - Enfocado en mejorar mi sitio web personal con nuevas características y optimizaciones en el repositorio `dsanchezcr/website`.  
-- Contribuí con un PR al proyecto `Azure-Samples/DevOpsEngineerPersona` para mejorar ejemplos de flujos de trabajo centrados en la nube.  
+- Contribuí con un PR al proyecto `Azure-Samples/DevOpsEngineerPersona` para mejorar ejemplos de flujos de trabajo enfocados en la nube.  
 - Manteniéndome inspirado por Azure, GitHub y la IA mientras refino código y apoyo proyectos que generan impacto.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza expresiones de Azure DevOps Pipeline para gestionar despliegues complejos de manera más eficiente. Por ejemplo, utiliza condiciones `if` para controlar pasos según la rama, lo que permite fusiones más suaves y acciones específicas del entorno.
+> 💡 **Consejo:** Aprovecha Azure Pipelines para automatizar tus flujos de trabajo de CI/CD; crea un pipeline YAML que ejecute tus pruebas en cada push y despliegue en Azure App Service tras construcciones exitosas, asegurando lanzamientos más rápidos y confiables.
 <!-- AI-TIP:END -->
 
 ---
