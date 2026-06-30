@@ -99,7 +99,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Leverage Azure Pipelines to automate your CI/CD workflows; create a YAML pipeline that runs your tests on each push and deploys to Azure App Service upon successful builds, ensuring faster and more reliable releases.
+> 💡 **Tip:** Use Azure DevOps pipelines to automate your deployment process. Set up continuous integration for your GitHub repository to ensure every commit triggers a build, reducing errors and speeding up delivery.
 <!-- AI-TIP:END -->
 
 ---
