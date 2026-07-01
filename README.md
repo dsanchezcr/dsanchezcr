@@ -99,7 +99,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure DevOps pipelines to automate your deployment process. Set up continuous integration for your GitHub repository to ensure every commit triggers a build, reducing errors and speeding up delivery.
+> 💡 **Tip:** Use GitHub Actions to automate your CI/CD pipeline. Create a `.github/workflows/` directory in your repo and define workflows in YAML files to build, test, and deploy your apps seamlessly with every push.
 <!-- AI-TIP:END -->
 
 ---
