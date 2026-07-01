@@ -83,7 +83,7 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use os pipelines do Azure DevOps para automatizar seu processo de implantação. Configure a integração contínua para seu repositório GitHub para garantir que cada commit acione uma construção, reduzindo erros e acelerando a entrega.
+> 💡 **Dica:** Use o GitHub Actions para automatizar seu pipeline de CI/CD. Crie um diretório `.github/workflows/` em seu repositório e defina fluxos de trabalho em arquivos YAML para construir, testar e implantar seus aplicativos de forma contínua a cada push.
 <!-- AI-TIP:END -->
 
 ---

@@ -83,7 +83,7 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza las pipelines de Azure DevOps para automatizar tu proceso de despliegue. Configura la integración continua para tu repositorio de GitHub para asegurar que cada commit desencadene una construcción, reduciendo errores y acelerando la entrega.
+> 💡 **Consejo:** Usa GitHub Actions para automatizar tu pipeline de CI/CD. Crea un directorio `.github/workflows/` en tu repositorio y define flujos de trabajo en archivos YAML para construir, probar y desplegar tus aplicaciones sin problemas con cada push.
 <!-- AI-TIP:END -->
 
 ---
