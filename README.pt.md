@@ -101,11 +101,11 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ## ✍️ Últimas do meu blog
 <!-- BLOG-POST-LIST:START -->
+- [Before You Prompt: The Fundamentals Every Beginner Needs in the AI Era](https://dsanchezcr.com/blog/fundamentals-before-ai)
+- [Token Debt: Why FinOps for Agentic AI Is an Engineering Problem, Not a Model Choice](https://dsanchezcr.com/blog/token-debt-finops-agentic-engineering)
 - [Reviewer Fatigue: When Agents Write More Code Than Humans Can Read](https://dsanchezcr.com/blog/reviewer-fatigue-human-in-the-loop-bottleneck)
 - [Mastering Generative AI: The Architecture of a System of Intelligence](https://dsanchezcr.com/blog/mastering-generative-ai-systems-of-intelligence)
 - [DevOps Foundations for the AI Agentic Era &lpar;Microsoft Reactor Webinar&rpar;](https://dsanchezcr.com/blog/devops-foundations-ai-agentic-era-webinar)
-- [Building mobile and device apps in the agentic era: a practical guide to native, MAUI, React Native, and more](https://dsanchezcr.com/blog/building-mobile-apps-agentic-era)
-- [Do full IDEs still deserve a seat at the table in the AI era?](https://dsanchezcr.com/blog/full-ides-ai-era)
 <!-- BLOG-POST-LIST:END -->
 
 📬 [**Assine minha newsletter**](https://dsanchezcr.com/newsletter) para receber minhas publicações.
