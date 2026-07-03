@@ -77,13 +77,13 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ## 🤖 No que tenho trabalhado
 <!-- AI-DIGEST:START -->
-- Focado em aprimorar meu site pessoal (`dsanchezcr/website`) com cinco novos pull requests para refinar suas funcionalidades e responsividade.  
+- Focado em aprimorar meu site pessoal (`dsanchezcr/website`) com cinco novas pull requests para refinar suas funcionalidades e responsividade.  
 - Fiz atualizações no repositório do meu perfil do GitHub (`dsanchezcr/dsanchezcr`) para refletir melhor meu foco atual em Azure, fluxos de trabalho do GitHub e soluções impulsionadas por IA.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use o GitHub Codespaces para agilizar o desenvolvimento. Crie um novo ambiente baseado em nuvem com a configuração do seu projeto em segundos, garantindo ambientes consistentes para todos os membros da equipe sem as complicações da configuração local.
+> 💡 **Dica:** Use o GitHub Actions para automatizar testes e implantações. Configure fluxos de trabalho que são acionados em pull requests ou pushes para o main. Isso garante que seu código esteja sempre validado e reduz erros manuais em produção!
 <!-- AI-TIP:END -->
 
 ---
