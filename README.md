@@ -150,11 +150,11 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 ## ✍️ Latest from my blog
 <!-- Updated daily from https://dsanchezcr.com/blog -->
 <!-- BLOG-POST-LIST:START -->
+- [Learning Differently: How Teaching and Learning Must Evolve in the AI and Agentic Era](https://dsanchezcr.com/blog/learning-differently-ai-agentic-era)
 - [Before You Prompt: The Fundamentals Every Beginner Needs in the AI Era](https://dsanchezcr.com/blog/fundamentals-before-ai)
 - [Token Debt: Why FinOps for Agentic AI Is an Engineering Problem, Not a Model Choice](https://dsanchezcr.com/blog/token-debt-finops-agentic-engineering)
 - [Reviewer Fatigue: When Agents Write More Code Than Humans Can Read](https://dsanchezcr.com/blog/reviewer-fatigue-human-in-the-loop-bottleneck)
 - [Mastering Generative AI: The Architecture of a System of Intelligence](https://dsanchezcr.com/blog/mastering-generative-ai-systems-of-intelligence)
-- [DevOps Foundations for the AI Agentic Era &lpar;Microsoft Reactor Webinar&rpar;](https://dsanchezcr.com/blog/devops-foundations-ai-agentic-era-webinar)
 <!-- BLOG-POST-LIST:END -->
 
 📬 [**Subscribe to my newsletter**](https://dsanchezcr.com/newsletter) to get new posts in your inbox.
