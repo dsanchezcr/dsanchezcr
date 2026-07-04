@@ -99,7 +99,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use GitHub Actions to automate testing and deployment. Set up workflows that trigger on pull requests or pushes to main. This ensures your code is always validated and reduces manual errors in production!
+> 💡 **Tip:** Leverage GitHub Actions to automate your CI/CD pipeline. Set up a workflow that runs tests and deploys your app to Azure on push events—it streamlines your process and catches issues early!
 <!-- AI-TIP:END -->
 
 ---
