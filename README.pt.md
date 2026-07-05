@@ -83,7 +83,7 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Aproveite o GitHub Actions para automatizar seu pipeline de CI/CD. Configure um fluxo de trabalho que execute testes e implante seu aplicativo no Azure em eventos de push—isso agiliza seu processo e detecta problemas cedo!
+> 💡 **Dica:** Use o GitHub Actions para automatizar testes em cada push. Crie um arquivo YAML simples no seu diretório `.github/workflows` para configurar CI/CD e garantir que seu código esteja sempre pronto para implantação.
 <!-- AI-TIP:END -->
 
 ---
