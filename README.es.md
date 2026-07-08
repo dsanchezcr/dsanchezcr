@@ -83,7 +83,7 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza Azure DevOps Boards para automatizar el seguimiento de elementos de trabajo aprovechando etiquetas y consultas personalizadas para filtrar y priorizar tareas. Esto agiliza la gestión de proyectos y mantiene a tu equipo enfocado en lo que realmente importa.
+> 💡 **Consejo:** Utiliza los Service Hooks de Azure DevOps para automatizar notificaciones en tus herramientas favoritas cuando ocurren eventos en Azure Repos. Esto mantiene a tu equipo sincronizado sin cambiar de contexto: configúralo en la Configuración del Proyecto bajo "Service Hooks."
 <!-- AI-TIP:END -->
 
 ---
