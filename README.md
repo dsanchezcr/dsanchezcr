@@ -99,7 +99,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure DevOps Boards to automate work item tracking by leveraging tags and custom queries to filter and prioritize tasks. This streamlines project management and keeps your team focused on what truly matters.
+> 💡 **Tip:** Use Azure DevOps Service Hooks to automate notifications in your favorite tools when events occur in Azure Repos. This keeps your team in sync without switching context—set it up in Project Settings under "Service Hooks."
 <!-- AI-TIP:END -->
 
 ---
