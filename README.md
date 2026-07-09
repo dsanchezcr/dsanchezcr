@@ -99,7 +99,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure DevOps Service Hooks to automate notifications in your favorite tools when events occur in Azure Repos. This keeps your team in sync without switching context—set it up in Project Settings under "Service Hooks."
+> 💡 **Tip:** Use Azure DevOps Boards to create customizable Kanban boards for better workflow visualization. Add swimlanes to categorize tasks, making it easier to manage work across different teams and priorities.
 <!-- AI-TIP:END -->
 
 ---
