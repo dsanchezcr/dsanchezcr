@@ -77,13 +77,13 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
-- Enfocado en mejorar mi proyecto de sitio web personal (`dsanchezcr/website`) con varias actualizaciones y refinamientos.  
+- Enfocado en mejorar mi proyecto personal de sitio web (`dsanchezcr/website`) con varias actualizaciones y refinamientos.  
 - Continuando a explorar ideas en la intersección de Azure, GitHub y AI para dar forma a futuras iniciativas.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza los Service Hooks de Azure DevOps para automatizar notificaciones en tus herramientas favoritas cuando ocurren eventos en Azure Repos. Esto mantiene a tu equipo sincronizado sin cambiar de contexto: configúralo en la Configuración del Proyecto bajo "Service Hooks."
+> 💡 **Consejo:** Utiliza Azure DevOps Boards para crear tableros Kanban personalizables para una mejor visualización del flujo de trabajo. Agrega carriles para categorizar tareas, facilitando la gestión del trabajo entre diferentes equipos y prioridades.
 <!-- AI-TIP:END -->
 
 ---

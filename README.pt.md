@@ -83,7 +83,7 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use os Service Hooks do Azure DevOps para automatizar notificações em suas ferramentas favoritas quando eventos ocorrem no Azure Repos. Isso mantém sua equipe sincronizada sem mudar de contexto—configure isso em Configurações do Projeto sob "Service Hooks."
+> 💡 **Dica:** Use o Azure DevOps Boards para criar quadros Kanban personalizáveis para uma melhor visualização do fluxo de trabalho. Adicione faixas para categorizar tarefas, facilitando a gestão do trabalho entre diferentes equipes e prioridades.
 <!-- AI-TIP:END -->
 
 ---
