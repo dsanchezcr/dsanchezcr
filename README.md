@@ -99,7 +99,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure DevOps Boards to create customizable Kanban boards for better workflow visualization. Add swimlanes to categorize tasks, making it easier to manage work across different teams and priorities.
+> 💡 **Tip:** Use GitHub Actions to automate your CI/CD workflows. Create a `.github/workflows` directory in your repo and add a `.yml` file to define your pipeline. Start with simple builds, then integrate tests and deployments as you scale.
 <!-- AI-TIP:END -->
 
 ---
