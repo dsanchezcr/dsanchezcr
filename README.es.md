@@ -78,12 +78,12 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
 - Enfocado en mejorar mi proyecto personal de sitio web (`dsanchezcr/website`) con varias actualizaciones y refinamientos.  
-- Continuando a explorar ideas en la intersección de Azure, GitHub y AI para dar forma a futuras iniciativas.
+- Continuando a explorar ideas en la intersección de Azure, GitHub y IA para dar forma a futuras iniciativas.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza Azure DevOps Boards para crear tableros Kanban personalizables para una mejor visualización del flujo de trabajo. Agrega carriles para categorizar tareas, facilitando la gestión del trabajo entre diferentes equipos y prioridades.
+> 💡 **Consejo:** Usa GitHub Actions para automatizar tus flujos de trabajo de CI/CD. Crea un directorio `.github/workflows` en tu repositorio y añade un archivo `.yml` para definir tu pipeline. Comienza con compilaciones simples, luego integra pruebas y despliegues a medida que escalas.
 <!-- AI-TIP:END -->
 
 ---

@@ -83,7 +83,7 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use o Azure DevOps Boards para criar quadros Kanban personalizáveis para uma melhor visualização do fluxo de trabalho. Adicione faixas para categorizar tarefas, facilitando a gestão do trabalho entre diferentes equipes e prioridades.
+> 💡 **Dica:** Use o GitHub Actions para automatizar seus fluxos de trabalho de CI/CD. Crie um diretório `.github/workflows` em seu repositório e adicione um arquivo `.yml` para definir seu pipeline. Comece com builds simples e, em seguida, integre testes e implantações à medida que você escala.
 <!-- AI-TIP:END -->
 
 ---
