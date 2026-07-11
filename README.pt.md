@@ -83,7 +83,7 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use o GitHub Actions para automatizar seus fluxos de trabalho de CI/CD. Crie um diretório `.github/workflows` em seu repositório e adicione um arquivo `.yml` para definir seu pipeline. Comece com builds simples e, em seguida, integre testes e implantações à medida que você escala.
+> 💡 **Dica:** Use os pipelines do Azure DevOps para automatizar seu processo de CI/CD. Configure gatilhos em seus repositórios para iniciar automaticamente builds em pull requests para garantir a qualidade do código e ciclos de feedback mais rápidos!
 <!-- AI-TIP:END -->
 
 ---

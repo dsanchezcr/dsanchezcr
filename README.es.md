@@ -77,13 +77,13 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
-- Enfocado en mejorar mi proyecto personal de sitio web (`dsanchezcr/website`) con varias actualizaciones y refinamientos.  
-- Continuando a explorar ideas en la intersección de Azure, GitHub y IA para dar forma a futuras iniciativas.
+- Enfocado en mejorar mi proyecto de sitio web personal (`dsanchezcr/website`) con varias actualizaciones y refinamientos.  
+- Continuando a explorar ideas en la intersección de Azure, GitHub y AI para dar forma a futuras iniciativas.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Usa GitHub Actions para automatizar tus flujos de trabajo de CI/CD. Crea un directorio `.github/workflows` en tu repositorio y añade un archivo `.yml` para definir tu pipeline. Comienza con compilaciones simples, luego integra pruebas y despliegues a medida que escalas.
+> 💡 **Consejo:** Utiliza las tuberías de Azure DevOps para automatizar tu proceso de CI/CD. Configura disparadores en tus repositorios para iniciar automáticamente las compilaciones en solicitudes de extracción y asegurar la calidad del código y ciclos de retroalimentación más rápidos.
 <!-- AI-TIP:END -->
 
 ---
