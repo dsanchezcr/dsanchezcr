@@ -99,7 +99,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure DevOps pipelines to automate your CI/CD process. Set up triggers on your repositories to automatically start builds on pull requests to ensure code quality and faster feedback loops!
+> 💡 **Tip:** Leverage GitHub Actions for automated testing by setting up a workflow that triggers on pull requests. This ensures code quality and catches issues early, streamlining your CI/CD process.
 <!-- AI-TIP:END -->
 
 ---
