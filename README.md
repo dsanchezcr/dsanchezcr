@@ -109,7 +109,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Detailed GitHub metrics" />
+<img width="1000" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Detailed GitHub metrics" />
 
 <br/>
 
@@ -132,7 +132,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Detailed GitHub metrics" />
+  <img width="1000" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Detailed GitHub metrics" />
 </div>
 
 </details>

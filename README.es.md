@@ -93,7 +93,7 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Métricas detalladas de GitHub" />
+<img width="1000" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Métricas detalladas de GitHub" />
 
 </div>
 
