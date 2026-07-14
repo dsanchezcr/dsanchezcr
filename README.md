@@ -110,15 +110,10 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 <div align="center">
 
 <img height="165" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Detailed GitHub metrics" />
-<img height="165" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-achievements.svg" alt="GitHub achievements" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=dsanchezcr&hide_border=true&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&background=00000000" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-achievements.svg" alt="GitHub achievements" />
 
 </div>
 
