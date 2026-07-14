@@ -126,17 +126,6 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
   </picture>
 </div>
 
-<details>
-<summary>📈 <b>Detailed metrics (3D calendar, languages & habits)</b></summary>
-
-<br/>
-
-<div align="center">
-  <img width="1000" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Detailed GitHub metrics" />
-</div>
-
-</details>
-
 ---
 
 ## ✍️ Latest from my blog
