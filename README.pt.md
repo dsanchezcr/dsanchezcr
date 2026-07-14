@@ -93,8 +93,8 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dsanchezcr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0078D4&icon_color=0078D4&theme=transparent&locale=pt-br" alt="Estatísticas do GitHub de David" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsanchezcr&layout=compact&hide_border=true&title_color=0078D4&theme=transparent&langs_count=8&locale=pt-br" alt="Linguagens principais" />
+<img height="165" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Métricas detalhadas do GitHub" />
+<img height="165" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-achievements.svg" alt="Conquistas do GitHub" />
 
 </div>
 

@@ -109,12 +109,8 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 <div align="center">
 
-<a href="https://github.com/dsanchezcr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dsanchezcr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0078D4&icon_color=0078D4&theme=transparent" alt="David's GitHub stats" />
-</a>
-<a href="https://github.com/dsanchezcr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsanchezcr&layout=compact&hide_border=true&title_color=0078D4&theme=transparent&langs_count=8" alt="Top languages" />
-</a>
+<img height="165" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-metrics.svg" alt="Detailed GitHub metrics" />
+<img height="165" src="https://raw.githubusercontent.com/dsanchezcr/dsanchezcr/main/assets/github-achievements.svg" alt="GitHub achievements" />
 
 <br/>
 
