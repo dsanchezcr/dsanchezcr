@@ -100,7 +100,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use Azure DevOps Release Pipelines to automate deployments; define stages for development, testing, and production. This ensures consistent deployments and reduces the chance of human error.
+> 💡 **Tip:** Leverage GitHub Actions to automate your CI/CD workflows. Set up triggers on pull requests to run tests and linting automatically, ensuring only quality code gets merged into your main branch!
 <!-- AI-TIP:END -->
 
 ---
