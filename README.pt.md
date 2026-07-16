@@ -84,7 +84,7 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Aproveite o GitHub Actions para automatizar seus fluxos de trabalho de CI/CD. Configure gatilhos em pull requests para executar testes e linting automaticamente, garantindo que apenas código de qualidade seja mesclado em seu branch principal!
+> 💡 **Dica:** Use o GitHub Actions para automatizar seu pipeline de CI/CD. Defina fluxos de trabalho em `.github/workflows` e aproveite o contexto e expressões para criar etapas condicionais para compilações e implantações eficientes.
 <!-- AI-TIP:END -->
 
 ---
