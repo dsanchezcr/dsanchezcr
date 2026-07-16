@@ -100,7 +100,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Leverage GitHub Actions to automate your CI/CD workflows. Set up triggers on pull requests to run tests and linting automatically, ensuring only quality code gets merged into your main branch!
+> 💡 **Tip:** Use GitHub Actions to automate your CI/CD pipeline. Define workflows in `.github/workflows` and leverage context and expressions to create conditional steps for efficient builds and deployments.
 <!-- AI-TIP:END -->
 
 ---
