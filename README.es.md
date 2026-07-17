@@ -84,7 +84,7 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Usa GitHub Actions para automatizar tu pipeline de CI/CD. Define flujos de trabajo en `.github/workflows` y aprovecha el contexto y las expresiones para crear pasos condicionales para construcciones y despliegues eficientes.
+> 💡 **Consejo:** Utiliza Azure DevOps Boards para visualizar tus flujos de trabajo y rastrear el progreso. Personaliza columnas y carriles de nado para que coincidan con el proceso de tu equipo, asegurando que todos sepan qué priorizar y dónde enfocar sus esfuerzos de manera efectiva.
 <!-- AI-TIP:END -->
 
 ---
