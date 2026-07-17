@@ -100,7 +100,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use GitHub Actions to automate your CI/CD pipeline. Define workflows in `.github/workflows` and leverage context and expressions to create conditional steps for efficient builds and deployments.
+> 💡 **Tip:** Utilize Azure DevOps Boards to visualize your workflows and track progress. Customize columns and swimlanes to match your team's process, ensuring everyone knows what to prioritize and where to focus their efforts effectively.
 <!-- AI-TIP:END -->
 
 ---
