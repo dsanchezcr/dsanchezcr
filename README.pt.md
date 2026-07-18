@@ -79,12 +79,12 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 <!-- AI-DIGEST:START -->
 - Focado em melhorar o projeto dsanchezcr/website com várias atualizações e melhorias.  
 - Abri um novo PR para Azure-Samples/DevOpsEngineerPersona para contribuir com as melhores práticas de DevOps.  
-- Continuei refinando dsanchezcr/ColonesExchangeRate com atualizações relacionadas ao manuseio de dados em tempo real.
+- Continuei refinando dsanchezcr/ColonesExchangeRate com atualizações ligadas ao manuseio de dados em tempo real.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Utilize o Azure DevOps Boards para visualizar seus fluxos de trabalho e acompanhar o progresso. Personalize colunas e swimlanes para corresponder ao processo da sua equipe, garantindo que todos saibam o que priorizar e onde concentrar seus esforços de forma eficaz.
+> 💡 **Dica:** Use o GitHub Actions para automatizar pipelines de CI/CD; comece com templates pré-definidos para testar e implantar aplicativos Azure. Personalize-os para se adequar ao seu fluxo de trabalho—economizando tempo e reduzindo erros manuais!
 <!-- AI-TIP:END -->
 
 ---
