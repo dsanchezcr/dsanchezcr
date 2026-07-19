@@ -84,7 +84,7 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Usa GitHub Actions para automatizar pipelines de CI/CD; comienza con plantillas predefinidas para probar y desplegar aplicaciones de Azure. Personalízalas para adaptarlas a tu flujo de trabajo—¡ahorrando tiempo y reduciendo errores manuales!
+> 💡 **Consejo:** Usa GitHub Actions para automatizar tu pipeline de CI/CD; define flujos de trabajo en `.github/workflows` y aprovecha el poder de las acciones del mercado para integrar pruebas, despliegue y notificaciones sin problemas.
 <!-- AI-TIP:END -->
 
 ---
