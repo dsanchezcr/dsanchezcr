@@ -100,7 +100,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use GitHub Actions to automate your CI/CD pipeline; define workflows in `.github/workflows` and leverage the power of actions from the marketplace to integrate testing, deployment, and notifications seamlessly.
+> 💡 **Tip:** Utilize Azure DevOps pipelines to automate your CI/CD processes—set up triggers for every pull request in GitHub to ensure swift feedback and smoother deployments. It's a game changer for team efficiency!
 <!-- AI-TIP:END -->
 
 ---
