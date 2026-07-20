@@ -77,14 +77,15 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
-- Enfocado en mejorar el proyecto dsanchezcr/website con varias actualizaciones y mejoras.  
-- Abrí un nuevo PR para Azure-Samples/DevOpsEngineerPersona para contribuir a las mejores prácticas de DevOps.  
-- Continué refinando dsanchezcr/ColonesExchangeRate con actualizaciones relacionadas con el manejo de datos en tiempo real.
+- Terminé algunas mejoras en mi portafolio personal en `dsanchezcr/website` — ¡emocionado por seguir mejorando la experiencia del usuario!  
+- Contribuí al repositorio `Azure-Samples/DevOpsEngineerPersona` para refinar flujos de trabajo para entusiastas de DevOps.  
+- Hice un pequeño actualización de características en `dsanchezcr/ColonesExchangeRate` para mejorar la precisión en el seguimiento de divisas.  
+- Manteniéndome enfocado en Azure, GitHub y AI mientras siembro semillas para proyectos futuros.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza las tuberías de Azure DevOps para automatizar tus procesos de CI/CD: configura disparadores para cada pull request en GitHub para asegurar una retroalimentación rápida y despliegues más fluidos. ¡Es un cambio radical para la eficiencia del equipo!
+> 💡 **Consejo:** Utiliza las tuberías de Azure DevOps para automatizar tus procesos de CI/CD: configura disparadores para cada solicitud de extracción en GitHub para asegurar una retroalimentación rápida y despliegues más fluidos. ¡Es un cambio radical para la eficiencia del equipo!
 <!-- AI-TIP:END -->
 
 ---
