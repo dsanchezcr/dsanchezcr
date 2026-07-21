@@ -79,13 +79,13 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 <!-- AI-DIGEST:START -->
 - Finalizei algumas melhorias no meu portfólio pessoal em `dsanchezcr/website` — animado para continuar melhorando a experiência do usuário!  
 - Contribuí para o repositório `Azure-Samples/DevOpsEngineerPersona` para refinar fluxos de trabalho para entusiastas de DevOps.  
-- Enviei uma pequena atualização de recurso para `dsanchezcr/ColonesExchangeRate` para melhorar a precisão no rastreamento de moedas.  
+- Envie uma pequena atualização de recurso para `dsanchezcr/ColonesExchangeRate` para melhorar a precisão no rastreamento de moedas.  
 - Mantendo o foco em Azure, GitHub e IA enquanto planto sementes para projetos futuros.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Utilize os pipelines do Azure DevOps para automatizar seus processos de CI/CD—configure gatilhos para cada pull request no GitHub para garantir feedback rápido e implantações mais suaves. É um divisor de águas para a eficiência da equipe!
+> 💡 **Dica:** Use o GitHub Actions para automatizar seus fluxos de trabalho de CI/CD. Configure gatilhos para eventos de push e pull requests para agilizar as verificações de qualidade do código, construção e processos de implantação, garantindo uma entrega mais rápida com menos erros.
 <!-- AI-TIP:END -->
 
 ---
