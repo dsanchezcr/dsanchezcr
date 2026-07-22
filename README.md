@@ -101,7 +101,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Use GitHub Actions to automate your CI/CD workflows. Set up triggers for push events and pull requests to streamline code quality checks, build, and deployment processes, ensuring faster delivery with fewer errors.
+> 💡 **Tip:** Use Azure DevOps Boards to create actionable user stories and tasks; this will keep your team aligned and focused. Integrate with GitHub for seamless issue tracking right alongside your codebase!
 <!-- AI-TIP:END -->
 
 ---
