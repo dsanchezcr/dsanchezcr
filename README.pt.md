@@ -85,7 +85,7 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Use o Azure DevOps Boards para criar histórias de usuário e tarefas acionáveis; isso manterá sua equipe alinhada e focada. Integre com o GitHub para um rastreamento de problemas sem costura ao lado do seu código!
+> 💡 **Dica:** Aproveite os Boards do Azure DevOps para criar itens de trabalho vinculados para suas funcionalidades e bugs. Isso melhora o rastreamento e garante que sua equipe permaneça alinhada sobre o progresso, tornando as revisões de sprint mais eficientes.
 <!-- AI-TIP:END -->
 
 ---
