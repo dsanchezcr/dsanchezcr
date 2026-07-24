@@ -101,7 +101,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Leverage Azure DevOps' Boards to create linked work items for your features and bugs. This enhances tracking and ensures your team stays aligned on progress, making sprint reviews more efficient.
+> 💡 **Tip:** Use GitHub Actions to automate your CI/CD pipeline by defining workflows in your `.github/workflows` directory. Start with a simple YAML file to build, test, and deploy your app consistently with every commit.
 <!-- AI-TIP:END -->
 
 ---
