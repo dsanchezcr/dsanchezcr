@@ -101,7 +101,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Leverage GitHub Actions to automate your CI/CD workflows; set up a workflow file in your repo that runs tests on every pull request to catch issues early and ensure code quality before merging.
+> 💡 **Tip:** Leverage Azure DevOps Boards to visualize your project progress. Customize your Kanban board filters to focus on specific tasks, ensuring your team stays aligned and prioritized on the most critical work items.
 <!-- AI-TIP:END -->
 
 ---
