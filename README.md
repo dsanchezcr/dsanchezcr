@@ -93,10 +93,9 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 ## 🤖 What I've been building lately
 <!-- An AI summary of my recent GitHub activity, generated weekly with GitHub Models. -->
 <!-- AI-DIGEST:START -->
-- Wrapped up some enhancements on my personal portfolio in `dsanchezcr/website` — excited to keep improving the user experience!  
-- Contributed to the `Azure-Samples/DevOpsEngineerPersona` repository to refine workflows for DevOps enthusiasts.  
-- Pushed a small feature update to `dsanchezcr/ColonesExchangeRate` to improve accuracy for currency tracking.  
-- Staying focused on Azure, GitHub, and AI while planting seeds for upcoming projects.
+- Wrapped up several pull requests improving features and accessibility on my personal website (`dsanchezcr/website`).  
+- Contributed code reviews to Azure-focused projects, including `Azure-Samples/DevOpsEngineerPersona`.  
+- Sharpening my focus on Azure, GitHub, and AI—excited for what’s coming next!
 <!-- AI-DIGEST:END -->
 
 ### 💡 Agentic tip of the day
