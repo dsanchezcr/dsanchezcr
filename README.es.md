@@ -77,10 +77,9 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## 🤖 En qué he estado trabajando
 <!-- AI-DIGEST:START -->
-- Terminé algunas mejoras en mi portafolio personal en `dsanchezcr/website` — ¡emocionado por seguir mejorando la experiencia del usuario!  
-- Contribuí al repositorio `Azure-Samples/DevOpsEngineerPersona` para refinar flujos de trabajo para entusiastas de DevOps.  
-- Hice un pequeño actualización de características en `dsanchezcr/ColonesExchangeRate` para mejorar la precisión en el seguimiento de divisas.  
-- Manteniéndome enfocado en Azure, GitHub y AI mientras siembro semillas para proyectos futuros.
+- Terminé varias solicitudes de extracción mejorando características y accesibilidad en mi sitio web personal (`dsanchezcr/website`).  
+- Contribuí con revisiones de código a proyectos enfocados en Azure, incluyendo `Azure-Samples/DevOpsEngineerPersona`.  
+- Enfocándome más en Azure, GitHub y IA—¡emocionado por lo que viene a continuación!
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
