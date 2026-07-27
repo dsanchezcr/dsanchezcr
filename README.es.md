@@ -85,7 +85,7 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Aprovecha GitHub Actions para automatizar tus flujos de trabajo de CI/CD; configura un archivo de flujo de trabajo en tu repositorio que ejecute pruebas en cada solicitud de extracción para detectar problemas temprano y asegurar la calidad del código antes de fusionar.
+> 💡 **Consejo:** Aprovecha Azure DevOps Boards para visualizar el progreso de tu proyecto. Personaliza los filtros de tu tablero Kanban para centrarte en tareas específicas, asegurando que tu equipo se mantenga alineado y priorizado en los elementos de trabajo más críticos.
 <!-- AI-TIP:END -->
 
 ---

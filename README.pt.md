@@ -79,13 +79,13 @@ Sou **Engenheiro de Sistemas de Computação** com **mais de 15 anos** em tecnol
 <!-- AI-DIGEST:START -->
 - Finalizei algumas melhorias no meu portfólio pessoal em `dsanchezcr/website` — animado para continuar melhorando a experiência do usuário!  
 - Contribuí para o repositório `Azure-Samples/DevOpsEngineerPersona` para refinar fluxos de trabalho para entusiastas de DevOps.  
-- Enviei uma pequena atualização de recurso para `dsanchezcr/ColonesExchangeRate` para melhorar a precisão no rastreamento de moedas.  
+- Envie uma pequena atualização de recurso para `dsanchezcr/ColonesExchangeRate` para melhorar a precisão no rastreamento de moedas.  
 - Mantendo o foco em Azure, GitHub e IA enquanto planto sementes para projetos futuros.
 <!-- AI-DIGEST:END -->
 
 ### 💡 Dica agêntica do dia
 <!-- AI-TIP:START -->
-> 💡 **Dica:** Aproveite o GitHub Actions para automatizar seus fluxos de trabalho de CI/CD; configure um arquivo de fluxo de trabalho em seu repositório que execute testes em cada pull request para detectar problemas cedo e garantir a qualidade do código antes de mesclar.
+> 💡 **Dica:** Aproveite os Azure DevOps Boards para visualizar o progresso do seu projeto. Personalize os filtros do seu quadro Kanban para se concentrar em tarefas específicas, garantindo que sua equipe permaneça alinhada e priorizada nas tarefas mais críticas.
 <!-- AI-TIP:END -->
 
 ---
