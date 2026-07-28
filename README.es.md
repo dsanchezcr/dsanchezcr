@@ -79,12 +79,12 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 <!-- AI-DIGEST:START -->
 - Terminé varias solicitudes de extracción mejorando características y accesibilidad en mi sitio web personal (`dsanchezcr/website`).  
 - Contribuí con revisiones de código a proyectos enfocados en Azure, incluyendo `Azure-Samples/DevOpsEngineerPersona`.  
-- Enfocándome más en Azure, GitHub y IA—¡emocionado por lo que viene a continuación!
+- Afinando mi enfoque en Azure, GitHub y AI—¡emocionado por lo que viene a continuación!
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Aprovecha Azure DevOps Boards para visualizar el progreso de tu proyecto. Personaliza los filtros de tu tablero Kanban para centrarte en tareas específicas, asegurando que tu equipo se mantenga alineado y priorizado en los elementos de trabajo más críticos.
+> 💡 **Consejo:** Habilita GitHub Actions para automatizar tu pipeline de CI/CD. Utiliza la etiqueta `latest` para tus imágenes de Docker para siempre obtener la versión más reciente, asegurando que estás desplegando las últimas características y correcciones de seguridad sin esfuerzo.
 <!-- AI-TIP:END -->
 
 ---
