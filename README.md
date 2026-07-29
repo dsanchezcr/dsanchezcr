@@ -100,7 +100,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ### 💡 Agentic tip of the day
 <!-- AI-TIP:START -->
-> 💡 **Tip:** Enable GitHub Actions to automate your CI/CD pipeline. Utilize the `latest` tag for your Docker images to always pull the newest version, ensuring you're deploying the latest features and security fixes effortlessly.
+> 💡 **Tip:** Use Azure DevOps Pipelines to automate your CI/CD process. Define triggers for build and release pipelines to streamline deployment and ensure your code changes are continuously tested and delivered with ease.
 <!-- AI-TIP:END -->
 
 ---
