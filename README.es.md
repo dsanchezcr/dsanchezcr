@@ -79,12 +79,12 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 <!-- AI-DIGEST:START -->
 - Terminé varias solicitudes de extracción mejorando características y accesibilidad en mi sitio web personal (`dsanchezcr/website`).  
 - Contribuí con revisiones de código a proyectos enfocados en Azure, incluyendo `Azure-Samples/DevOpsEngineerPersona`.  
-- Enfocándome más en Azure, GitHub y AI—¡emocionado por lo que viene a continuación!
+- Enfocándome más en Azure, GitHub y IA—¡emocionado por lo que viene a continuación!
 <!-- AI-DIGEST:END -->
 
 ### 💡 Tip agéntico del día
 <!-- AI-TIP:START -->
-> 💡 **Consejo:** Utiliza Azure DevOps Pipelines para automatizar tu proceso de CI/CD. Define disparadores para las tuberías de construcción y liberación para agilizar el despliegue y asegurar que tus cambios de código sean probados y entregados continuamente con facilidad.
+> 💡 **Consejo:** Aprovecha las pipelines de Azure DevOps para automatizar tus procesos de prueba y despliegue. Usa YAML para un control de versiones claro y actualizaciones fáciles; reduce errores y mejora la colaboración en tu equipo de desarrollo.
 <!-- AI-TIP:END -->
 
 ---
