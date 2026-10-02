@@ -144,11 +144,7 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 
 ## 🎥 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS:START -->
-- 📺 [Agentic DevOps Meets Accessibility: Inclusive Delivery with AI &amp; Agents](https://www.youtube.com/watch?v=TnIOXPjOxoY)
-- 📺 [DevOps in the Age of AI with GitHub &amp; Azure](https://www.youtube.com/watch?v=sOYxgLTa_EE)
-- 📺 [DevOps Foundations for the AI Agentic Era](https://www.youtube.com/watch?v=rgO_-cZdVIY)
-- 📺 [Unlock DevSecOps: The Power of GitHub&#39;s Advanced Security Suite](https://www.youtube.com/watch?v=Q89yIPrhQA4)
-- 📺 [DevOps practices for Azure Cosmos DB](https://www.youtube.com/watch?v=kfkCCJ7jLyU)<!-- YOUTUBE-VIDEOS:END -->
+- 📺 [Create a Simple Website with Azure Static Web Apps and VS Code](https://www.youtube.com/watch?v=-61Ox6QpTd8)<!-- YOUTUBE-VIDEOS:END -->
 
 ## 🎤 Where to find me speaking
 <!-- SESSIONIZE:START -->
