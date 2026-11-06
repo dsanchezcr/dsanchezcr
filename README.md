@@ -131,11 +131,11 @@ I'm a **Computer Systems Engineer** with **15+ years** in tech, currently **Dire
 ## ✍️ Latest from my blog
 <!-- Updated daily from https://dsanchezcr.com/blog -->
 <!-- BLOG-POST-LIST:START -->
+- [Sandboxing Coding Agents: GitHub Copilot and Docker](https://dsanchezcr.com/blog/sandboxing-coding-agents-copilot-docker)
 - [Beyond Code: Domain Expertise and Real Impact in the AI Era](https://dsanchezcr.com/blog/value-beyond-code-ai-era)
 - [Own the Verification: A New Execution Mindset for the Agentic Era](https://dsanchezcr.com/blog/own-the-verification-agentic-era)
 - [A Small Message, A Meaningful Moment: Building a Ronald McDonald House eCard](https://dsanchezcr.com/blog/words-of-encouragement-ecard)
 - [Golden Paths for Agents: Why Platform Engineering is the Missing Layer](https://dsanchezcr.com/blog/golden-paths-for-agents-platform-engineering)
-- [Agentic DevOps Meets Accessibility: Inclusive Delivery with AI &amp; Agents &lpar;Microsoft Reactor Webinar&rpar;](https://dsanchezcr.com/blog/agentic-devops-accessibility-webinar)
 <!-- BLOG-POST-LIST:END -->
 
 📬 [**Subscribe to my newsletter**](https://dsanchezcr.com/newsletter) to get new posts in your inbox.
