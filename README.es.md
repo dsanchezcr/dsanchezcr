@@ -101,11 +101,11 @@ Soy **Ingeniero en Sistemas de Computación** con **más de 15 años** en tecnol
 
 ## ✍️ Lo último de mi blog
 <!-- BLOG-POST-LIST:START -->
+- [AccessiWeb Engine: AI-Assisted Web Accessibility](https://dsanchezcr.com/blog/accessiweb-engine-meta-ai-hackathon)
 - [Sandboxing Coding Agents: GitHub Copilot and Docker](https://dsanchezcr.com/blog/sandboxing-coding-agents-copilot-docker)
 - [Beyond Code: Domain Expertise and Real Impact in the AI Era](https://dsanchezcr.com/blog/value-beyond-code-ai-era)
 - [Own the Verification: A New Execution Mindset for the Agentic Era](https://dsanchezcr.com/blog/own-the-verification-agentic-era)
 - [A Small Message, A Meaningful Moment: Building a Ronald McDonald House eCard](https://dsanchezcr.com/blog/words-of-encouragement-ecard)
-- [Golden Paths for Agents: Why Platform Engineering is the Missing Layer](https://dsanchezcr.com/blog/golden-paths-for-agents-platform-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 📬 [**Suscríbete a mi newsletter**](https://dsanchezcr.com/newsletter) para recibir mis publicaciones.
