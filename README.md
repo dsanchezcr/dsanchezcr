@@ -178,7 +178,7 @@ A little easter egg powered by my own open-source package [`@dsanchezcr/colonese
 > **🇨🇷 Costa Rica exchange rate** — updated `2026-11-16`
 >
 > - 💵 **1 USD** = ₡448.34 _(sale)_ · ₡442.56 _(purchase)_
-> - 💶 **1 EUR** = ₡495.68
+> - 💶 **1 EUR** = ₡493.62
 >
 > <sub>Powered by my own package [`@dsanchezcr/colonesexchangerate`](https://github.com/dsanchezcr/ColonesExchangeRate)</sub>
 <!-- COLONES-RATE:END -->
