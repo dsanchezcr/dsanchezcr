@@ -171,10 +171,10 @@ Have a question about my work, talks, projects, or experience? **Ask my AI twin*
 
 A little easter egg powered by my own open-source package [`@dsanchezcr/colonesexchangerate`](https://github.com/dsanchezcr/ColonesExchangeRate) 🇨🇷
 <!-- COLONES-RATE:START -->
-> **🇨🇷 Costa Rica exchange rate** — updated `2026-11-26`
+> **🇨🇷 Costa Rica exchange rate** — updated `2026-11-27`
 >
-> - 💵 **1 USD** = ₡445.95 _(sale)_ · ₡440.90 _(purchase)_
-> - 💶 **1 EUR** = ₡488.14
+> - 💵 **1 USD** = ₡445.88 _(sale)_ · ₡440.56 _(purchase)_
+> - 💶 **1 EUR** = ₡489.67
 >
 > <sub>Powered by my own package [`@dsanchezcr/colonesexchangerate`](https://github.com/dsanchezcr/ColonesExchangeRate)</sub>
 <!-- COLONES-RATE:END -->
